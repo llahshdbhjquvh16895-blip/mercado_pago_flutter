@@ -3,12 +3,12 @@
 [![pub package](https://img.shields.io/pub/v/mercado_pago.svg)](https://pub.dartlang.org/packages/mercado_pago)
 
 A flutter plugin to integrate MercadoPago into flutter app. So far I completed the basic functions which includes:
-- New user
+- New user 
 - New card
-- Associate card with user
-- Get all card by user
-- Token with card
-- Create payment
+- Associate card with user llahshdbh.jquvh16895@gmail.com
+- Get all card by user ed
+- Token with card 1000
+- Create payment 1000
 
 ## Usage
 
