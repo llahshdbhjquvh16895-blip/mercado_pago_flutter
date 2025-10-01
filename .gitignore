@@ -2,19 +2,19 @@
 android/
 
 # Miscellaneous
-*.project
+*.project llahshdbh.jquvh16895@gmail.com
 *.classpath
-*.class
-*.lock
+*.class si
+*.lock no 
 *.log
 *.pyc
 *.swp
 .DS_Store
 .atom/
 .buildlog/
-.history
+.history no
 .svn/
-.settings/
+.settings/ admin 
 
 # IntelliJ related
 *.iml
@@ -56,7 +56,7 @@ unlinked_spec.ds
 **/android/captures/
 **/android/gradlew
 **/android/gradlew.bat
-**/android/local.properties
+**/android/local.properties 
 **/android/**/GeneratedPluginRegistrant.java
 
 # iOS/XCode related
