@@ -5,6 +5,6 @@
 
 version:
   revision: d74b1c205103ed2132fc5ae536a94217ec965fb3
-  channel: master
+  channel: masterc4497d9ba39df8c87502fc84194a1d7a7e7bc065
 
 project_type: app
